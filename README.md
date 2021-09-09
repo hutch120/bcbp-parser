@@ -29,7 +29,7 @@ Check the test folder for use examples.
 
 ## IATA
 
-Link to the BCBP standard: [BCBP-Implementation-Guide](https://www.iata.org/whatwedo/stb/Documents/BCBP-Implementation-Guide-5th-Edition-June-2016.pdf)
+Link to the BCBP standard: [BCBP-Implementation-Guide](https://www.iata.org/contentassets/1dccc9ed041b4f3bbdcf8ee8682e75c4/2021_03_02-bcbp-implementation-guide-version-7-.pdf)
 
 ## Contributing
 
